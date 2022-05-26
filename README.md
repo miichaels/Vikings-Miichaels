@@ -8,5 +8,4 @@ Página sobre a série Vikings
 #
 Primeiro projeto web com Bootstrap hospedado
 
-Link: https://miichaels.github.io/Iron-Man-Miichaels/
-
+Link: https://miichaels.github.io/Vikings-Miichaels/
