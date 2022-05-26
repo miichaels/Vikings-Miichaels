@@ -2,7 +2,6 @@
 
 Site Vikings hospedado através do GitHub
 
-#
 Página sobre a série Vikings
 
 
